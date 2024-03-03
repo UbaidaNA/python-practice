@@ -19,7 +19,7 @@ Given a year, determine whether it is a leap year. If it is a leap year, return 
 
 Note that the code stub provided reads from STDIN and passes arguments to the is_leap function. It is only necessary to complete the is_leap function.
 
-### 2. triangle-quest
+#### 2. triangle-quest
 
 You are given a positive integer . Print a numerical triangle of height  like the one below:
 
